@@ -24,7 +24,7 @@
       position: relative;
       width: 100%;
       height: 100vh;
-      background-image: url("AdobeStock_871587478_Preview.jpeg");
+      background-image: url("/images/AdobeStock_871587478_Preview.jpeg");
       background-size: cover;
       background-position: center;
       transform-style: preserve-3d;
@@ -95,15 +95,15 @@
     }
 
     .bg1 {
-      background-image: url("AdobeStock_112417959_Preview.jpeg");
+      background-image: url("/images/AdobeStock_112417959_Preview.jpeg");
     }
 
     .bg2 {
-      background-image: url("AdobeStock_156292527_Preview.jpeg");
+      background-image: url("/images/AdobeStock_156292527_Preview.jpeg");
     }
 
     .bg3 {
-      background-image: url("AdobeStock_610343010_Preview.jpeg");
+      background-image: url("/images/AdobeStock_610343010_Preview.jpeg");
     }
   
 
